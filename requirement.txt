@@ -1,0 +1,2 @@
+lxml
+paddlex==2.0.0rc4
